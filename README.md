@@ -9,4 +9,6 @@ Art - Katherine Huang, Alex Forrest
 
 Sound Design - Joshua Li
 
+Website: https://kotssu.itch.io/annoying-squirrel
+
 July 23 - July 30
