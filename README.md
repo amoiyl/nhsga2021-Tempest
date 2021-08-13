@@ -1,5 +1,5 @@
 # nhsga2021-lightningRound
-recreation of the arcade game tempest in a week, presentation to TAs and CMU ETC faculty on July 31
+recreation of the arcade game tempest, presentation to TAs and CMU ETC faculty on July 31
 
 Team: 
 
