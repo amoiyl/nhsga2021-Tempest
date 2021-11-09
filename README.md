@@ -3,7 +3,7 @@ recreation of the arcade game tempest, presentation to TAs and CMU ETC faculty o
 
 Team: 
 
-Programming - Kyle He (producer), Amy Zhao
+Programming - Kyle He, Amy Zhao
 
 Art - Katherine Huang, Alex Forrest
 
